@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Agbolahan
 - 👀 I’m interested in making a lot of wonderful friends
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning NodeJS and solidifying my knowledge on Vanilla JavaScript
+- 💞️ I’m looking to collaborate on team projects
 - 📫 How to reach me adebayoayomide646@gmail.com
 
 <!---
